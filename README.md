@@ -5,3 +5,5 @@
 代码运行结果为
 train accuracy: 100.0 %
 test accuracy: 72.0 %
+
+Please leave a comment if you want an English note
